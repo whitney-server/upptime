@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: PWS Homepage
     url: https://www.whitney.rip
+  - name: Jake Runyan Portfolio
+    url: https://jake.runyan.dev
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
