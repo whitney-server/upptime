@@ -24,7 +24,7 @@ sites:
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  baseUrl: /repo
+  baseUrl: /upptime
   name: PWS Upptime
   introTitle: "PWS Status page is powered by Upptime."
   introMessage: This status page pulls data into the [GitHub repository](https://github.com/whitney-server/upptime).
