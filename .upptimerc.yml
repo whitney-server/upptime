@@ -8,19 +8,12 @@ sites:
     url: https://jake.runyan.dev
   - name: Jake Runyan Photography
     url: https://jakesphotos.whitney.rip
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: PWS Git
+    url: https://git.whitney.rip
+  - name: PWS Photos
+    url: https://images.whitney.rip
+  - name: PWS Recipes
+    url: https://recipes.whitney.rip
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
