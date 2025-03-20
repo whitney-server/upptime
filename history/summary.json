@@ -94,17 +94,19 @@
     "url": "https://recipes.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.whitney.rip.ico",
     "slug": "pws-recipes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 71,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
-    "dailyMinutesDown": {}
+    "time": 495,
+    "timeDay": 268,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
+    "dailyMinutesDown": {
+      "2025-03-20": 0
+    }
   }
 ]
