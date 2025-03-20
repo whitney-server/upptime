@@ -14,6 +14,12 @@ sites:
     url: https://images.whitney.rip
   - name: PWS Recipes
     url: https://recipes.whitney.rip
+  - name: PWS Grafana
+    url: https://grafana.whitney.rip
+  - name: PWS GPT
+    url: https://chat.whitney.rip
+  - name: Jakes West Coast Site
+    url: https://jakeswestcoast.com
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
