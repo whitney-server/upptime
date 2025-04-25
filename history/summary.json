@@ -4,100 +4,110 @@
     "url": "https://www.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/www.whitney.rip.ico",
     "slug": "pws-homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 482,
     "timeDay": 460,
     "timeWeek": 605,
     "timeMonth": 506,
     "timeYear": 482,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 5
+    }
   },
   {
     "name": "Jake Runyan Portfolio",
     "url": "https://jake.runyan.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jake.runyan.dev.ico",
     "slug": "jake-runyan-portfolio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 262,
     "timeDay": 125,
     "timeWeek": 265,
     "timeMonth": 267,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 4
+    }
   },
   {
     "name": "Jake Runyan Photography",
     "url": "https://jakesphotos.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/jakesphotos.whitney.rip.ico",
     "slug": "jake-runyan-photography",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 476,
     "timeDay": 343,
     "timeWeek": 444,
     "timeMonth": 478,
     "timeYear": 476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 4
+    }
   },
   {
     "name": "PWS Git",
     "url": "https://git.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/git.whitney.rip.ico",
     "slug": "pws-git",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 494,
     "timeDay": 301,
     "timeWeek": 508,
     "timeMonth": 511,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 3
+    }
   },
   {
     "name": "PWS Photos",
     "url": "https://images.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/images.whitney.rip.ico",
     "slug": "pws-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 421,
     "timeDay": 452,
     "timeWeek": 440,
     "timeMonth": 399,
     "timeYear": 421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 3
+    }
   },
   {
     "name": "PWS Recipes",
     "url": "https://recipes.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/recipes.whitney.rip.ico",
     "slug": "pws-recipes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 436,
@@ -106,6 +116,7 @@
     "timeMonth": 433,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2025-04-25": 2,
       "2025-03-20": 17
     }
   },
@@ -114,10 +125,10 @@
     "url": "https://grafana.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.whitney.rip.ico",
     "slug": "pws-grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
@@ -125,17 +136,19 @@
     "timeWeek": 522,
     "timeMonth": 526,
     "timeYear": 536,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 2
+    }
   },
   {
     "name": "PWS GPT",
     "url": "https://chat.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/chat.whitney.rip.ico",
     "slug": "pws-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
@@ -143,24 +156,28 @@
     "timeWeek": 397,
     "timeMonth": 375,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 1
+    }
   },
   {
     "name": "Jakes West Coast Site",
     "url": "https://jakeswestcoast.com",
     "icon": "https://icons.duckduckgo.com/ip3/jakeswestcoast.com.ico",
     "slug": "jakes-west-coast-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 152,
-    "timeWeek": 262,
-    "timeMonth": 281,
-    "timeYear": 283,
-    "dailyMinutesDown": {}
+    "time": 787,
+    "timeDay": 9787,
+    "timeWeek": 2657,
+    "timeMonth": 879,
+    "timeYear": 787,
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   }
 ]
