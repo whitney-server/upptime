@@ -18,6 +18,8 @@ sites:
     url: https://grafana.whitney.rip
   - name: Jakes West Coast Site
     url: https://jakeswestcoast.com
+  - name: PWS Workouts
+    url: https://workouts.whitney.rip
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
