@@ -6,14 +6,14 @@
     "slug": "pws-homepage",
     "status": "up",
     "uptime": "96.89%",
-    "uptimeDay": "51.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.09%",
     "uptimeMonth": "95.10%",
-    "uptimeYear": "96.70%",
+    "uptimeYear": "96.98%",
     "time": 477,
-    "timeDay": 392,
-    "timeWeek": 364,
-    "timeMonth": 443,
+    "timeDay": 356,
+    "timeWeek": 353,
+    "timeMonth": 433,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2026-04-25": 696,
@@ -30,8 +30,7 @@
       "2026-03-18": 1440,
       "2026-03-17": 208,
       "2025-09-03": 214,
-      "2025-04-28": 413,
-      "2025-04-27": 1440
+      "2025-04-28": 413
     }
   },
   {
@@ -40,15 +39,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jake.runyan.dev.ico",
     "slug": "jake-runyan-portfolio",
     "status": "up",
-    "uptime": "91.10%",
-    "uptimeDay": "51.67%",
+    "uptime": "91.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.10%",
     "uptimeMonth": "95.10%",
-    "uptimeYear": "90.21%",
-    "time": 322,
-    "timeDay": 250,
-    "timeWeek": 299,
-    "timeMonth": 359,
+    "uptimeYear": "90.49%",
+    "time": 321,
+    "timeDay": 188,
+    "timeWeek": 273,
+    "timeMonth": 351,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2026-04-25": 696,
@@ -91,8 +90,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1313,
       "2025-07-01": 1,
-      "2025-04-28": 413,
-      "2025-04-27": 1440
+      "2025-04-28": 413
     }
   },
   {
@@ -101,15 +99,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jakesphotos.whitney.rip.ico",
     "slug": "jake-runyan-photography",
     "status": "up",
-    "uptime": "90.59%",
-    "uptimeDay": "51.70%",
+    "uptime": "90.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.10%",
     "uptimeMonth": "95.11%",
-    "uptimeYear": "89.64%",
+    "uptimeYear": "89.92%",
     "time": 447,
-    "timeDay": 708,
-    "timeWeek": 450,
-    "timeMonth": 436,
+    "timeDay": 531,
+    "timeWeek": 484,
+    "timeMonth": 429,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2026-04-25": 696,
@@ -155,8 +153,7 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 928,
-      "2025-04-28": 470,
-      "2025-04-27": 1440
+      "2025-04-28": 470
     }
   },
   {
@@ -165,15 +162,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.whitney.rip.ico",
     "slug": "pws-git",
     "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "51.73%",
+    "uptime": "96.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.10%",
     "uptimeMonth": "95.11%",
-    "uptimeYear": "96.70%",
-    "time": 475,
-    "timeDay": 482,
-    "timeWeek": 397,
-    "timeMonth": 444,
+    "uptimeYear": "96.97%",
+    "time": 474,
+    "timeDay": 250,
+    "timeWeek": 385,
+    "timeMonth": 436,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2026-04-25": 695,
@@ -191,8 +188,7 @@
       "2026-03-17": 208,
       "2025-09-03": 213,
       "2025-08-16": 33,
-      "2025-04-28": 413,
-      "2025-04-27": 1440
+      "2025-04-28": 413
     }
   },
   {
@@ -201,16 +197,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/images.whitney.rip.ico",
     "slug": "pws-photos",
     "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "51.77%",
+    "uptime": "96.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.11%",
     "uptimeMonth": "95.11%",
-    "uptimeYear": "96.69%",
-    "time": 402,
-    "timeDay": 291,
-    "timeWeek": 291,
-    "timeMonth": 356,
-    "timeYear": 399,
+    "uptimeYear": "96.97%",
+    "time": 401,
+    "timeDay": 73,
+    "timeWeek": 265,
+    "timeMonth": 350,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2026-04-25": 695,
       "2026-04-13": 1293,
@@ -227,8 +223,7 @@
       "2026-03-17": 208,
       "2025-09-03": 212,
       "2025-08-16": 55,
-      "2025-04-28": 413,
-      "2025-04-27": 1440
+      "2025-04-28": 413
     }
   },
   {
@@ -237,16 +232,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/recipes.whitney.rip.ico",
     "slug": "pws-recipes",
     "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "51.80%",
+    "uptime": "96.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.11%",
     "uptimeMonth": "95.11%",
-    "uptimeYear": "96.69%",
-    "time": 405,
-    "timeDay": 342,
-    "timeWeek": 345,
-    "timeMonth": 393,
-    "timeYear": 401,
+    "uptimeYear": "96.97%",
+    "time": 404,
+    "timeDay": 81,
+    "timeWeek": 295,
+    "timeMonth": 381,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2026-04-25": 694,
       "2026-04-13": 1293,
@@ -263,8 +258,7 @@
       "2026-03-17": 208,
       "2025-09-03": 212,
       "2025-08-16": 54,
-      "2025-04-28": 413,
-      "2025-04-27": 1440
+      "2025-04-28": 413
     }
   },
   {
@@ -273,16 +267,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.whitney.rip.ico",
     "slug": "pws-grafana",
     "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "51.83%",
+    "uptime": "96.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.12%",
     "uptimeMonth": "95.11%",
-    "uptimeYear": "96.70%",
-    "time": 520,
-    "timeDay": 318,
-    "timeWeek": 414,
-    "timeMonth": 508,
-    "timeYear": 518,
+    "uptimeYear": "96.97%",
+    "time": 519,
+    "timeDay": 94,
+    "timeWeek": 370,
+    "timeMonth": 486,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2026-04-25": 694,
       "2026-04-13": 1293,
@@ -299,8 +293,7 @@
       "2026-03-17": 208,
       "2025-09-03": 211,
       "2025-08-16": 21,
-      "2025-04-28": 413,
-      "2025-04-27": 1440
+      "2025-04-28": 413
     }
   },
   {
@@ -309,16 +302,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jakeswestcoast.com.ico",
     "slug": "jakes-west-coast-site",
     "status": "up",
-    "uptime": "86.20%",
-    "uptimeDay": "51.87%",
+    "uptime": "86.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.12%",
     "uptimeMonth": "95.12%",
-    "uptimeYear": "85.00%",
-    "time": 552,
-    "timeDay": 119,
-    "timeWeek": 208,
-    "timeMonth": 234,
-    "timeYear": 476,
+    "uptimeYear": "85.27%",
+    "time": 550,
+    "timeDay": 84,
+    "timeWeek": 184,
+    "timeMonth": 226,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2026-04-25": 693,
       "2026-04-13": 1293,
@@ -378,8 +371,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1239,
-      "2025-04-28": 472,
-      "2025-04-27": 1440
+      "2025-04-28": 472
     }
   },
   {
@@ -388,16 +380,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workouts.whitney.rip.ico",
     "slug": "pws-workouts",
     "status": "up",
-    "uptime": "95.21%",
-    "uptimeDay": "51.90%",
+    "uptime": "95.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.13%",
     "uptimeMonth": "95.12%",
-    "uptimeYear": "95.21%",
-    "time": 324,
-    "timeDay": 357,
-    "timeWeek": 282,
-    "timeMonth": 314,
-    "timeYear": 324,
+    "uptimeYear": "95.36%",
+    "time": 322,
+    "timeDay": 246,
+    "timeWeek": 277,
+    "timeMonth": 305,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2026-04-25": 693,
       "2026-04-13": 1293,
