@@ -20,6 +20,8 @@ sites:
     url: https://jakeswestcoast.com
   - name: PWS Workouts
     url: https://workouts.whitney.rip
+  - name: PWS Applications
+    url: https://apply.whitney.rip
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
