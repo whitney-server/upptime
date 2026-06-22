@@ -112,17 +112,17 @@
     "url": "https://jakesphotos.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/jakesphotos.whitney.rip.ico",
     "slug": "jake-runyan-photography",
-    "status": "up",
+    "status": "down",
     "uptime": "84.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.59%",
+    "uptimeMonth": "46.71%",
     "uptimeYear": "80.86%",
     "time": 429,
-    "timeDay": 256,
-    "timeWeek": 340,
-    "timeMonth": 310,
-    "timeYear": 425,
+    "timeDay": 216,
+    "timeWeek": 319,
+    "timeMonth": 306,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2025-07-07": 538,
       "2025-07-06": 1440,
@@ -205,7 +205,8 @@
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
-      "2026-06-04": 686
+      "2026-06-04": 686,
+      "2026-06-22": 0
     }
   },
   {
@@ -334,7 +335,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.whitney.rip.ico",
     "slug": "pws-grafana",
     "status": "up",
-    "uptime": "96.90%",
+    "uptime": "96.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.56%",
@@ -373,15 +374,15 @@
     "url": "https://jakeswestcoast.com",
     "icon": "https://icons.duckduckgo.com/ip3/jakeswestcoast.com.ico",
     "slug": "jakes-west-coast-site",
-    "status": "up",
-    "uptime": "81.07%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "81.08%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.95%",
+    "uptimeMonth": "56.07%",
     "uptimeYear": "77.00%",
     "time": 504,
-    "timeDay": 268,
-    "timeWeek": 216,
+    "timeDay": 244,
+    "timeWeek": 217,
     "timeMonth": 216,
     "timeYear": 359,
     "dailyMinutesDown": {
@@ -479,7 +480,8 @@
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
-      "2026-06-04": 661
+      "2026-06-04": 661,
+      "2026-06-22": 0
     }
   },
   {
