@@ -12,7 +12,7 @@
     "uptimeYear": "96.86%",
     "time": 467,
     "timeDay": 487,
-    "timeWeek": 437,
+    "timeWeek": 433,
     "timeMonth": 413,
     "timeYear": 461,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "90.38%",
     "time": 332,
     "timeDay": 509,
-    "timeWeek": 360,
+    "timeWeek": 351,
     "timeMonth": 379,
     "timeYear": 351,
     "dailyMinutesDown": {
@@ -113,14 +113,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/jakesphotos.whitney.rip.ico",
     "slug": "jake-runyan-photography",
     "status": "down",
-    "uptime": "84.41%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "94.92%",
+    "uptime": "84.38%",
+    "uptimeDay": "72.30%",
+    "uptimeWeek": "92.63%",
     "uptimeMonth": "54.64%",
-    "uptimeYear": "80.76%",
+    "uptimeYear": "80.72%",
     "time": 431,
     "timeDay": 366,
-    "timeWeek": 344,
+    "timeWeek": 327,
     "timeMonth": 318,
     "timeYear": 423,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
       "2026-06-04": 686,
       "2026-06-22": 344,
       "2026-06-24": 167,
-      "2026-06-25": 0
+      "2026-06-25": 232
     }
   },
   {
@@ -217,14 +217,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.whitney.rip.ico",
     "slug": "pws-git",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "96.87%",
     "time": 466,
     "timeDay": 535,
-    "timeWeek": 446,
+    "timeWeek": 433,
     "timeMonth": 384,
     "timeYear": 460,
     "dailyMinutesDown": {
@@ -257,14 +257,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/images.whitney.rip.ico",
     "slug": "pws-photos",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "96.87%",
     "time": 396,
     "timeDay": 370,
-    "timeWeek": 398,
+    "timeWeek": 357,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {
@@ -304,7 +304,7 @@
     "uptimeYear": "96.88%",
     "time": 397,
     "timeDay": 562,
-    "timeWeek": 441,
+    "timeWeek": 400,
     "timeMonth": 362,
     "timeYear": 393,
     "dailyMinutesDown": {
@@ -344,7 +344,7 @@
     "uptimeYear": "96.89%",
     "time": 513,
     "timeDay": 618,
-    "timeWeek": 577,
+    "timeWeek": 567,
     "timeMonth": 492,
     "timeYear": 516,
     "dailyMinutesDown": {
@@ -377,14 +377,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/jakeswestcoast.com.ico",
     "slug": "jakes-west-coast-site",
     "status": "down",
-    "uptime": "81.11%",
-    "uptimeDay": "88.39%",
-    "uptimeWeek": "94.93%",
+    "uptime": "81.08%",
+    "uptimeDay": "72.32%",
+    "uptimeWeek": "92.63%",
     "uptimeMonth": "64.00%",
-    "uptimeYear": "76.90%",
+    "uptimeYear": "76.86%",
     "time": 500,
     "timeDay": 161,
-    "timeWeek": 199,
+    "timeWeek": 194,
     "timeMonth": 209,
     "timeYear": 356,
     "dailyMinutesDown": {
@@ -485,7 +485,7 @@
       "2026-06-04": 661,
       "2026-06-22": 344,
       "2026-06-24": 167,
-      "2026-06-25": 0
+      "2026-06-25": 232
     }
   },
   {
@@ -501,7 +501,7 @@
     "uptimeYear": "96.91%",
     "time": 316,
     "timeDay": 312,
-    "timeWeek": 346,
+    "timeWeek": 323,
     "timeMonth": 322,
     "timeYear": 316,
     "dailyMinutesDown": {
@@ -529,7 +529,7 @@
     "uptimeYear": "98.55%",
     "time": 273,
     "timeDay": 618,
-    "timeWeek": 353,
+    "timeWeek": 313,
     "timeMonth": 279,
     "timeYear": 273,
     "dailyMinutesDown": {
