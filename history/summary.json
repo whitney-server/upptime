@@ -104,17 +104,17 @@
     "url": "https://jakesphotos.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/jakesphotos.whitney.rip.ico",
     "slug": "jake-runyan-photography",
-    "status": "down",
-    "uptime": "81.61%",
-    "uptimeDay": "99.97%",
+    "status": "up",
+    "uptime": "81.60%",
+    "uptimeDay": "96.85%",
     "uptimeWeek": "19.66%",
-    "uptimeMonth": "44.75%",
-    "uptimeYear": "77.36%",
+    "uptimeMonth": "44.65%",
+    "uptimeYear": "77.35%",
     "time": 423,
-    "timeDay": 85,
-    "timeWeek": 274,
-    "timeMonth": 268,
-    "timeYear": 410,
+    "timeDay": 233,
+    "timeWeek": 300,
+    "timeMonth": 275,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2025-08-16": 34,
       "2025-09-23": 1296,
@@ -212,7 +212,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
-      "2026-07-12": 0
+      "2026-07-12": 45
     }
   },
   {
@@ -380,17 +380,17 @@
     "url": "https://jakeswestcoast.com",
     "icon": "https://icons.duckduckgo.com/ip3/jakeswestcoast.com.ico",
     "slug": "jakes-west-coast-site",
-    "status": "down",
-    "uptime": "78.38%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "19.14%",
-    "uptimeMonth": "44.64%",
-    "uptimeYear": "72.39%",
-    "time": 486,
-    "timeDay": 140,
-    "timeWeek": 153,
-    "timeMonth": 157,
-    "timeYear": 348,
+    "status": "up",
+    "uptime": "78.37%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "19.15%",
+    "uptimeMonth": "44.53%",
+    "uptimeYear": "72.38%",
+    "time": 485,
+    "timeDay": 164,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2025-10-15": 1254,
       "2025-10-14": 1440,
@@ -506,7 +506,7 @@
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
-      "2026-07-12": 0
+      "2026-07-12": 45
     }
   },
   {
