@@ -12,7 +12,7 @@
     "uptimeYear": "96.78%",
     "time": 451,
     "timeDay": 438,
-    "timeWeek": 453,
+    "timeWeek": 433,
     "timeMonth": 396,
     "timeYear": 443,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
     "uptimeYear": "92.15%",
     "time": 337,
     "timeDay": 481,
-    "timeWeek": 324,
+    "timeWeek": 345,
     "timeMonth": 311,
     "timeYear": 338,
     "dailyMinutesDown": {
@@ -108,16 +108,16 @@
     "url": "https://jakesphotos.whitney.rip",
     "icon": "https://icons.duckduckgo.com/ip3/jakesphotos.whitney.rip.ico",
     "slug": "jake-runyan-photography",
-    "status": "up",
-    "uptime": "82.13%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.14%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "76.64%",
-    "uptimeYear": "75.96%",
+    "uptimeYear": "75.98%",
     "time": 419,
-    "timeDay": 449,
-    "timeWeek": 387,
-    "timeMonth": 348,
+    "timeDay": 370,
+    "timeWeek": 362,
+    "timeMonth": 346,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-09-23": 1296,
@@ -223,7 +223,8 @@
       "2026-08-21": 1440,
       "2026-08-20": 1193,
       "2026-09-02": 0,
-      "2026-09-01": 106
+      "2026-09-01": 106,
+      "2026-09-05": 0
     }
   },
   {
@@ -239,7 +240,7 @@
     "uptimeYear": "96.80%",
     "time": 451,
     "timeDay": 665,
-    "timeWeek": 454,
+    "timeWeek": 474,
     "timeMonth": 379,
     "timeYear": 442,
     "dailyMinutesDown": {
@@ -281,7 +282,7 @@
     "uptimeYear": "96.80%",
     "time": 383,
     "timeDay": 316,
-    "timeWeek": 361,
+    "timeWeek": 354,
     "timeMonth": 328,
     "timeYear": 375,
     "dailyMinutesDown": {
@@ -323,7 +324,7 @@
     "uptimeYear": "96.86%",
     "time": 391,
     "timeDay": 581,
-    "timeWeek": 480,
+    "timeWeek": 487,
     "timeMonth": 388,
     "timeYear": 379,
     "dailyMinutesDown": {
@@ -364,7 +365,7 @@
     "uptimeYear": "96.86%",
     "time": 512,
     "timeDay": 695,
-    "timeWeek": 509,
+    "timeWeek": 556,
     "timeMonth": 434,
     "timeYear": 494,
     "dailyMinutesDown": {
@@ -397,16 +398,16 @@
     "url": "https://jakeswestcoast.com",
     "icon": "https://icons.duckduckgo.com/ip3/jakeswestcoast.com.ico",
     "slug": "jakes-west-coast-site",
-    "status": "up",
+    "status": "down",
     "uptime": "78.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "68.94%",
-    "uptimeYear": "70.34%",
+    "uptimeYear": "70.36%",
     "time": 455,
-    "timeDay": 320,
-    "timeWeek": 219,
-    "timeMonth": 200,
+    "timeDay": 213,
+    "timeWeek": 218,
+    "timeMonth": 197,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-10-15": 1254,
@@ -534,7 +535,8 @@
       "2026-08-26": 1440,
       "2026-08-25": 432,
       "2026-09-02": 0,
-      "2026-09-01": 82
+      "2026-09-01": 82,
+      "2026-09-05": 0
     }
   },
   {
@@ -550,7 +552,7 @@
     "uptimeYear": "98.13%",
     "time": 309,
     "timeDay": 435,
-    "timeWeek": 281,
+    "timeWeek": 309,
     "timeMonth": 297,
     "timeYear": 309,
     "dailyMinutesDown": {
